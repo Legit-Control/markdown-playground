@@ -22,8 +22,8 @@
 - Fix code block icon in toolbar `@nils`
 - view Modes (one paragraph button the toggles a csss class on the editor container) `@nils`
   - show/hide - html comments `@martin`
-  - linebreak symbol
-  - mermaid/code diagram
+  - linebreak symbol `@martin`
+  - mermaid/code diagram `@martin`
 
 
 test
