@@ -22,7 +22,7 @@
 - Fix code block icon in toolbar `@nils`
 - view Modes 
   - show/hide - html comments
-  - linebreak symbol
+  - linebreak symbol<br>&#8203;
 
 
 test
