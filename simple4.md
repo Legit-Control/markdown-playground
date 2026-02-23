@@ -23,6 +23,7 @@
 - view Modes 
   - show/hide - html comments
   - linebreak symbol
+  - mermaid/code diagram
 
 
 test
