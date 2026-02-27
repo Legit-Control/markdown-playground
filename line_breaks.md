@@ -1,9 +1,9 @@
 This is a
 soft break
 
-<br>
-This `is a
-soft break inside of inline code`
+<br>&#8203;
+This `is``** a
+soft brea**``k inside of inl``ine`` code`
 
-This is a paragraph break  
-This is a LineBreak
+This is a parasddgraph break  
+This is a LineBrddasdasdeak
